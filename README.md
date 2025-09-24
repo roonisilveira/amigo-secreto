@@ -47,7 +47,7 @@ Os arquivos estão divididos por módulos e desafios, com foco em aprendizado pr
 
 ---
 
-Desenvolvido com 💙 pelo Grupo 9 - ONE
+Desenvolvido com pelo Grupo 9 - ONE
 ## 💡 Regras do Sorteio
 
 - Mínimo de **3 participantes** para iniciar o sorteio.
@@ -65,4 +65,4 @@ Sinta-se à vontade para abrir uma **issue** ou enviar um **pull request** com m
 
 ## 👩‍💻 Autor
 
-Feito com 💙 por **Darllyn**  
+Feito com muita vontade por **Roniel**  
